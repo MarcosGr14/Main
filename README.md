@@ -1,4 +1,6 @@
 # Main
+Labooratorio 4 Parte 1 Calidad de software Grupo: 1SF133
+
 Crear un repositorio en GitHub y nombra la rama principal como "main". 
 
 En el archivo README.md incluir una descripción del proyecto y las instrucciones plasmadas en este papel. 
